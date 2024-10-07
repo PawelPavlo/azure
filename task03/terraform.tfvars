@@ -1,4 +1,4 @@
-rg_name                          = "cmaz-b5eedb66-mod3-rg"
+rg_name                          = "cmtr-b5eedb66-mod3-rg"
 location                         = "North Europe"
 storage_account_name             = "cmtrb5eedb66mod3sa"
 storage_account_replication_type = "LRS"
